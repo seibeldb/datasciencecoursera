@@ -1,0 +1,1 @@
+entering first line again, becauase I wiped it out with git checkout -- newfile.txt
